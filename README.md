@@ -11,3 +11,5 @@ I was also going to add ImageBlur to the program but frameworks kinda destroyed 
 Notes:
 I don't know when or if I will update this again.
 This program is 100% Framework-Themeable, using stuff like WindowBlinds or UltraUXThemePatcher will make my program prettier :P
+
+![Using the MusicPlayer on a Themed DE](https://i.imgur.com/YQ6yzvm.png)
