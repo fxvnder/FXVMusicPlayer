@@ -1,0 +1,328 @@
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.exe.config
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.exe
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.pdb
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.xml
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form1.resources
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Resources.resources
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.exe
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.xml
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.pdb
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.ResolveComReference.cache
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form2.resources
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\Interop.Shell32.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.exe.config
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.exe
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.pdb
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.xml
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbprojResolveAssemblyReference.cache
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\Interop.Shell32.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.ResolveComReference.cache
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form1.resources
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form2.resources
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Resources.resources
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.GenerateResource.Cache
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.CoreCompileInputs.cache
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.exe
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.xml
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.pdb
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.xml
+C:\Users\Aluno\Desktop\12ºTIG\VB\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.exe.config
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.exe
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.pdb
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.xml
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.xml
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.xml
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbprojResolveAssemblyReference.cache
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\Interop.Shell32.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.ResolveComReference.cache
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form1.resources
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form2.resources
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Resources.resources
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.GenerateResource.Cache
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.CoreCompileInputs.cache
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.exe
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.xml
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.pdb
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form3.resources
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form4.resources
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form5.resources
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form6.resources
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form7.resources
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EnvDTE.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\stdole.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.MSXML.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\João Oliveira\My Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form8.resources
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.exe.config
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\Interop.Shell32.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.ResolveComReference.cache
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.exe
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.xml
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.pdb
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.exe
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.pdb
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.xml
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EnvDTE.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\stdole.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EnvDTE80.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj80.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.MSXML.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj2.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.xml
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.xml
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EnvDTE.xml
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EnvDTE80.xml
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj.xml
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj80.xml
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj2.xml
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbprojResolveAssemblyReference.cache
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.FXVMusicPlayer.exe.config
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form1.resources
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form2.resources
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form3.resources
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form4.resources
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form5.resources
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form6.resources
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form7.resources
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form8.resources
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Resources.resources
+C:\Users\FXVNDER\Documents\Programming\26. PROJETO\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.GenerateResource.Cache
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.exe.config
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\Interop.Shell32.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.ResolveComReference.cache
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.exe
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.xml
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.pdb
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.exe
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.pdb
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\FXVMusicPlayer.xml
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EnvDTE.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\stdole.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EnvDTE80.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj80.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.MSXML.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj2.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.xml
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\System.Data.SQLite.xml
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EnvDTE.xml
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\EnvDTE80.xml
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj.xml
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj80.xml
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\VSLangProj2.xml
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbprojResolveAssemblyReference.cache
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.FXVMusicPlayer.exe.config
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form1.resources
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form2.resources
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form3.resources
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form4.resources
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form5.resources
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form6.resources
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form7.resources
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Form8.resources
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.Resources.resources
+C:\Users\FXVNDER\Documents\Programming\FXVMusicPlayer\26. PROJETO\FXVMusicPlayer\FXVMusicPlayer\obj\Debug\FXVMusicPlayer.vbproj.GenerateResource.Cache
