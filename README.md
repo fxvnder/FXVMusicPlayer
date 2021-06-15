@@ -16,3 +16,6 @@ Some examples:
 
 ![Using the MusicPlayer on a Themed DE](https://i.imgur.com/YQ6yzvm.png)
 ![imagem](https://user-images.githubusercontent.com/50883050/122072555-96741580-cdef-11eb-93d9-ece640a5e44b.png)
+
+Using Win10 Default
+![imagem](https://user-images.githubusercontent.com/50883050/122073333-3f227500-cdf0-11eb-99a4-3034c1b96e84.png)
