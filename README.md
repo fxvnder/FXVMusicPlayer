@@ -12,4 +12,7 @@ Notes:
 I don't know when or if I will update this again.
 This program is 100% Framework-Themeable, using stuff like WindowBlinds or UltraUXThemePatcher will make my program prettier :P
 
+Some examples:
+
 ![Using the MusicPlayer on a Themed DE](https://i.imgur.com/YQ6yzvm.png)
+![imagem](https://user-images.githubusercontent.com/50883050/122072555-96741580-cdef-11eb-93d9-ece640a5e44b.png)
